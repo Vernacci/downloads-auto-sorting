@@ -1,2 +1,2 @@
 # downloads-auto-sorting
-A program in python that auto sorts your downloads folder
+Um programa feito em python para organizar a pasta de downloads
